@@ -2,7 +2,7 @@ CMake template project
 
 Building the projected:
 
-- navigate to /CmakeTemplateProject/build 
+- navigate to /CMakeTemplateProject/build 
 
 - 'cmake ..'
 
